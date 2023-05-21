@@ -1,73 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="79dcc9cf-05b3-4533-87b7-28686b1ef5fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/META-INF/plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/action/AbstractDimenAction$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/action/AbstractDimenAction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/action/BulkGenerateAction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/action/GenerateSingleDimenAction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/dialogs/BulkDimenDialog$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/dialogs/BulkDimenDialog$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/dialogs/BulkDimenDialog$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/dialogs/BulkDimenDialog$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/dialogs/BulkDimenDialog$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/dialogs/BulkDimenDialog$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/dialogs/BulkDimenDialog$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/dialogs/BulkDimenDialog$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/dialogs/BulkDimenDialog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/dialogs/SingleDimenDialog$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/dialogs/SingleDimenDialog$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/dialogs/SingleDimenDialog$3$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/dialogs/SingleDimenDialog$3$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/dialogs/SingleDimenDialog$3$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/dialogs/SingleDimenDialog$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/dialogs/SingleDimenDialog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/model/Dimen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/util/Constants$Mode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/util/Constants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/util/ModelUtil$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/com/hr/dimenify/util/ModelUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dimenify-plugin/icons/dimenify.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dimenify-plugin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dimenify-plugin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dimenify-plugin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/dimenify-plugin.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hr/dimenify/util/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hr/dimenify/util/Constants.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1700919644">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="14" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="XML" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Groovy" value="8" />
-          <entry key="JAVA" value="123" />
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="XML" value="192" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -182,6 +133,9 @@
       <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -206,11 +160,21 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
+  <component name="ProjectId" id="2Q6V9YWoEGnWGJ3uiZpzByWIb5T" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -232,14 +196,22 @@
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557603482227" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-    <property name="show.migrate.to.gradle.popup" value="false" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;H:/dimenify/dimenify-plugin.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
@@ -247,38 +219,38 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
-    <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="dimenify-plugin" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+    <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="dimenify-plugin" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="dimenify-plugin" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -326,9 +298,6 @@
       <window_info anchor="right" id="Flutter Inspector" order="8" />
       <window_info anchor="right" id="Maven Projects" order="9" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
